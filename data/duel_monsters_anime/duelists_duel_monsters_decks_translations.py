@@ -1806,18 +1806,6 @@ DUELISTS_DECKS_KEYS_DUEL_MONSTERS = {
             "en": "Serenity",
             "pt": "Serenity",
         },
-        "ill_give_it_a_shot": {
-            "en": "I'll give it a shot!",
-            "pt": "Vou tentar!",
-        },
-        "its_my_turn_to_be_brave": {
-            "en": "It's my turn to be brave!",
-            "pt": "É a minha vez de ser valente!",
-        },
-        "i_wont_give_up": {
-            "en": "I won't give up!",
-            "pt": "Não desistirei!",
-        },
         "third_eye_destiny_draw": {
             "en": "Third Eye Destiny Draw",
             "pt": "Compra do Destino do Terceiro Olho",

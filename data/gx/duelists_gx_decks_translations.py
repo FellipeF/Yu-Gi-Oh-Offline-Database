@@ -299,6 +299,68 @@ DUELISTS_DECKS_KEYS_GX = {
             "pt": "Minha Cerimônia de Coroação",
         },
     },
+    "kagemaru": {
+        "sacred_beast": {
+            "en": "Sacred Beast",
+            "pt": "Besta Sagrada",
+        },
+        "lightning_skyfire": {
+            "en": "Lightning Skyfire",
+            "pt": "Fogo Estelar Iluminado",
+        },
+        "king_of_blazing_inferno": {
+            "en": "King of Blazing Inferno",
+            "pt": "Rei do Inferno Ardente",
+        },
+        "shimmering_sovereign": {
+            "en": "Shimmering Sovereign",
+            "pt": "Soberano Cintilante",
+        },
+        "the_sacred_beasts": {
+            "en": "The Sacred Beasts",
+            "pt": "As Bestas Sagradas",
+        },
+        "the_strike_of_the_ninja": {
+            "en": "The Strike of the Ninja",
+            "pt": "O Ataque do Ninja",
+        },
+        "the_creator": {
+            "en": "The Creator",
+            "pt": "O Criador",
+        },
+        "trap_monster": {
+            "en": "Trap Monster",
+            "pt": "Monstro Armadilha",
+        },
+        "phantasms_roar": {
+            "en": "Phantasm's Roar",
+            "pt": "Rugido do Fantasma",
+        },
+        "phantasms_pulse": {
+            "en": "Phantasm's Pulse",
+            "pt": "Pulso do Fantasma",
+        },
+        "the_three_lords": {
+            "en": "The Three Lords",
+            "pt": "Os Três Senhores",
+        },
+        "the_lord_of_searing_flames": {
+            "en": "The Lord of Searing Flames",
+            "pt": "O Senhor das Chamas Cortantes",
+        },
+        "the_lord_of_striking_thunder": {
+            "en": "The Lord of Striking Thunder",
+            "pt": "O Senhor do Trovão Impactante",
+        },
+        "the_lord_of_phantasms": {
+            "en": "The Lord of Phantasms",
+            "pt": "O Senhor dos Fantasmas",
+        },
+        "the_three_wicked_ones": {
+            "en": "The Three Wicked Ones",
+            "pt": "Os Três Perversos",
+        },
+    },
     "lyman_banner": {
         "alchemy": {
             "en": "Alchemy",

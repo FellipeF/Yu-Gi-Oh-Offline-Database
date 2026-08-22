@@ -723,5 +723,12 @@ DUEL_MONSTERS_DECK_COVER_CARDS = {
         "seal_release": "08124921",
         "cheating_exodia": 55144522,
         "the_coming_of_exodia": 44519536,
-    }
+    },
+    "serenity_wheeler": {
+        "anime": 37620434,
+        "cute_sister": 27618634,
+        "hows_this": 65570596,
+        "serenity": 84080938,
+        "third_eye_destiny_draw": 53493204,
+    },
 }

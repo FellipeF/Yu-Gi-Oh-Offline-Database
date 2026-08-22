@@ -81,19 +81,6 @@ SERENITY_DECKS = {
         ("Red Medicine", 1),
         ("Scroll of Bewitchment", 1),
     ],
-    "ill_give_it_a_shot": [
-        ("Roboyarou", 2),
-        ("Shadow Tamer", 1),
-        ("Witch of the Black Forest", 1),
-        ("Magical Mallet", 1),
-        ("Bad Reaction to Simochi", 1),
-    ],
-    "its_my_turn_to_be_brave": [
-        ("Goddess with the Third Eye", 1),
-    ],
-    "i_wont_give_up": [
-        ("Harpie Harpist", 1),
-    ],
     "third_eye_destiny_draw": [
         ("Ancient Elf", 3),
         ("Giant Soldier of Stone", 1),

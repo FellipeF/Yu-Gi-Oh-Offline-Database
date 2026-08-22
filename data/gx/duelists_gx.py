@@ -12,6 +12,7 @@ DUELISTS_GX = [
     ("pierre_the_gambler", "images/duelists/gx/pierre_the_gambler.webp", "gx"),
     ("the_admiral", "images/duelists/gx/the_admiral.webp", "gx"),
     ("taiyou_torimaki", "images/duelists/gx/taiyou_torimaki.webp", "gx"),
+    ("kagemaru", "images/duelists/gx/kagemaru.webp", "gx"),
     # =========================
     # TODO: Below
     # =========================
@@ -31,7 +32,6 @@ DUELISTS_GX = [
     ("axel_brodie", "images/duelists/duelist_placeholder.png", "gx"),
     ("jim_crocodile_cook", "images/duelists/duelist_placeholder.png", "gx"),
     ("adrian_gecko", "images/duelists/duelist_placeholder.png", "gx"),
-    ("kagemaru", "images/duelists/duelist_placeholder.png", "gx"),
     ("camula", "images/duelists/duelist_placeholder.png", "gx"),
     ("tania", "images/duelists/duelist_placeholder.png", "gx"),
     ("don_zaloog", "images/duelists/duelist_placeholder.png", "gx"),
@@ -99,7 +99,6 @@ DUELISTS_GX = [
     ("kabukid", "images/duelists/duelist_placeholder.png", "gx"),
     ("franz", "images/duelists/duelist_placeholder.png", "gx"),
     ("mathmatica", "images/duelists/duelist_placeholder.png", "gx"),
-    ("maitre_d", "images/duelists/duelist_placeholder.png", "gx"),
     ("mr_huffington", "images/duelists/duelist_placeholder.png", "gx"),
     ("jagger_princeton", "images/duelists/duelist_placeholder.png", "gx"), # Duelist Translations continue here ^, if any
     ("eisenstein", "images/duelists/duelist_placeholder.png", "gx"),
