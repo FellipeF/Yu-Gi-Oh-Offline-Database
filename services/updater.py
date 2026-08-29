@@ -19,7 +19,8 @@ def main():
     parser.add_argument("--pid", required=True, type=int)
     args = parser.parse_args()
 
-    wait_pid_close(args.pid)
+    if not wait_pid_close(args.pid):
+        return
 
     subprocess.Popen([
         args.installer,
@@ -27,7 +28,8 @@ def main():
         "/NORESTART",
         "/SUPPRESSMSGBOXES",
         "/CLOSEAPPLICATIONS",
-        "/FORCECLOSEAPPLICATIONS"
+        "/FORCECLOSEAPPLICATIONS",
+        "/UPDATED"
     ])
 
 if __name__ == "__main__":
