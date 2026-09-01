@@ -711,4 +711,158 @@ DUELISTS_DECKS_KEYS_GX = {
             "pt": "Sons da Escuridão",
         },
     },
+    "tyranno_hassleberry": {
+        "evolution": {
+            "en": "Evolution",
+            "pt": "Evolução",
+        },
+        "tyranno": {
+            "en": "Tyranno",
+            "pt": "Tyranno",
+        },
+        "anthrosaurus": {
+            "en": "Anthrosaurus!",
+            "pt": "Antrossauro!",
+        },
+        "babycerasaurus": {
+            "en": "Babycerasaurus!",
+            "pt": "Bebecerassauro!",
+        },
+        "dark_driceratops": {
+            "en": "Dark Driceratops!",
+            "pt": "Driceratops Negro!",
+        },
+        "ultimate_tyranno": {
+            "en": "Ultimate Tyranno!",
+            "pt": "Ultimate Tyranno!",
+        },
+        "natural_selection": {
+            "en": "Natural Selection",
+            "pt": "Seleção Natural",
+        },
+        "progressive_evolution": {
+            "en": "Progressive Evolution",
+            "pt": "Evolução Progressiva",
+        },
+        "progressive_evolution_2": {
+            "en": "Progressive Evolution (2)",
+            "pt": "Evolução Progressiva (2)",
+        },
+        "superior_evolution": {
+            "en": "Superior Evolution",
+            "pt": "Evolução Superior",
+        },
+        "superior_evolution_2": {
+            "en": "Superior Evolution (2)",
+            "pt": "Evolução Superior (2)",
+        },
+        "ultimate_evolution": {
+            "en": "Ultimate Evolution",
+            "pt": "Evolução Definitiva",
+        },
+        "the_ultimate_dino": {
+            "en": "The Ultimate Dino!",
+            "pt": "O Dino Definitivo!",
+        },
+        "demon_roar_god_revival": {
+            "en": "Demon Roar God Revival!!",
+            "pt": "Rugido Demoníaco de Reavivamento Divino!!",
+        },
+        "dino_tyranno": {
+            "en": "Dino Tyranno",
+            "pt": "Dino Tyranno",
+        },
+        "heart_of_the_jurac": {
+            "en": "Heart of the Jurac",
+            "pt": "Coração do Jurrac",
+        },
+        "tyranno_saurus": {
+            "en": "Tyranno-saurus",
+            "pt": "Tyranno-sauro",
+        },
+        "jurrac": {
+            "en": "Jurrac",
+            "pt": "Jurrac",
+        },
+        "jurassic_dawn": {
+            "en": "Jurassic Dawn",
+            "pt": "Alvorecer Jurássico",
+        },
+        "jurassic_dawn_2": {
+            "en": "Jurassic Dawn 2",
+            "pt": "Alvorecer Jurássico 2",
+        },
+        "evolving_tyranno": {
+            "en": "Evolving Tyranno",
+            "pt": "Tyranno Evolutivo",
+        },
+        "dinosaur_paradise": {
+            "en": "Dinosaur Paradise",
+            "pt": "Paraíso Dinossauro",
+        },
+        "rising_phoenix": {
+            "en": "Rising Phoenix",
+            "pt": "Fênix Ascendente",
+        },
+        "great_dinos": {
+            "en": "Great Dinos",
+            "pt": "Grandes Dinos",
+        },
+        "super_dinos": {
+            "en": "Super Dinos",
+            "pt": "Super Dinos",
+        },
+        "awesome_dinos": {
+            "en": "Awesome Dinos",
+            "pt": "Dinos Fantásticos",
+        },
+        "garrr": {
+            "en": "Garrr!",
+            "pt": "Garrr!",
+        },
+        "check_this_out": {
+            "en": "Check This Out!",
+            "pt": "Veja Só!",
+        },
+        "dino_pair": {
+            "en": "Dino Pair!",
+            "pt": "Par Dino!",
+        },
+        "shine_on_dino": {
+            "en": "Shione on, Dino!",
+            "pt": "Brilha, Dino!",
+        },
+        "my_dinosaur": {
+            "en": "My Dinosaur",
+            "pt": "Meu Dinossauro",
+        },
+        "my_little_dinosaur": {
+            "en": "My Little Dinosaur",
+            "pt": "Meu Pequeno Dinossauro",
+        },
+        "my_grown_dinosaur": {
+            "en": "My Grown Dinosaur",
+            "pt": "Meu Dinossauro Crescido",
+        },
+        "my_dinosaur_lord": {
+            "en": "My Lord Dinosaur",
+            "pt": "Meu Lorde Dinossauro",
+        },
+        "tyranno_hassleberry_zero_one": {
+            "en": "Tyranno Hassleberry 01",
+            "pt": "Tyranno Hassleberry 01",
+        },
+        "tyranno_hassleberry_zero_two": {
+            "en": "Tyranno Hassleberry 02",
+            "pt": "Tyranno Hassleberry 02",
+        },
+        "tyranno_hassleberry_zero_three": {
+            "en": "Tyranno Hassleberry 03",
+            "pt": "Tyranno Hassleberry 03",
+        },
+        "dino_evolution": {
+            "en": "Dino Evolution",
+            "pt": "Evolução Dino",
+        },
+    },
 }

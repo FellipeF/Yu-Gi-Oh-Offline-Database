@@ -13,6 +13,7 @@ DUELISTS_GX = [
     ("the_admiral", "images/duelists/gx/the_admiral.webp", "gx"),
     ("taiyou_torimaki", "images/duelists/gx/taiyou_torimaki.webp", "gx"),
     ("kagemaru", "images/duelists/gx/kagemaru.webp", "gx"),
+    ("tyranno_hassleberry", "images/duelists/gx/tyranno_hassleberry.webp", "gx"),
     # =========================
     # TODO: Below
     # =========================
@@ -27,7 +28,6 @@ DUELISTS_GX = [
     ("pharaoh", "images/duelists/duelist_placeholder.png", "gx"),
     ("sheppard", "images/duelists/duelist_placeholder.png", "gx"),
     ("chumley_huffington", "images/duelists/duelist_placeholder.png", "gx"),
-    ("tyranno_hassleberry", "images/duelists/duelist_placeholder.png", "gx"),
     ("jesse_anderson", "images/duelists/duelist_placeholder.png", "gx"),
     ("axel_brodie", "images/duelists/duelist_placeholder.png", "gx"),
     ("jim_crocodile_cook", "images/duelists/duelist_placeholder.png", "gx"),
