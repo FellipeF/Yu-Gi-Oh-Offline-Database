@@ -230,6 +230,8 @@ ui_text = {
         "dancing_fairy": "Dancing Fairy",
         "goblin_elite_attack_force": "Goblin Elite Attack Force",
         "brron_mad_king_of_dark_world": "Brron, Mad King of Dark World",
+        "chaos_sorcerer": "Chaos Sorcerer",
+        "honest": "Honest",
         # ================================
         #  DUELISTS - GX
         # ================================
@@ -280,7 +282,6 @@ ui_text = {
         "emotionless_mask": "Emotionless Mask",
         "the_supreme_king": "The Supreme King",
         "skull_bishop": "Skull Bishop",
-        "chaos_sorcerer": "Chaos Sorcerer",
         "skilled_dark_magician": "Skilled Dark Magician",
         "scarr_scout_of_dark_world": "Scarr, Scout of Dark World",
         "zure_knight_of_dark_world": "Zure, Knight of Dark World",
@@ -324,7 +325,6 @@ ui_text = {
         "sky_scout": "Sky Scout",
         "maiden_of_the_aqua": "Maiden of the Aqua",
         "exodia_the_forbidden_one": "Exodia the Forbidden One",
-        "honest": "Honest",
         "kabukid": "Kabukid",
         "franz": "Franz",
         "mathmatica": "Mathmatica",
@@ -574,6 +574,7 @@ ui_text = {
         "goblin_elite_attack_force": "Força de Ataque de Elite Goblin",
         "brron_mad_king_of_dark_world": "Brron, Rei Insano do Mundo Negro",
         "chaos_sorcerer": "Feiticeiro do Caos",
+        "honest": "Honesto",
         # ================================
         #  DUELISTS - GX
         # ================================
@@ -667,7 +668,6 @@ ui_text = {
         "sky_scout": "Sky Scout",
         "maiden_of_the_aqua": "Maiden of the Aqua",
         "exodia_the_forbidden_one": "Exodia the Forbidden One",
-        "honest": "Honest",
         "kabukid": "Kabukid",
         "franz": "Franz",
         "mathmatica": "Mathmatica",

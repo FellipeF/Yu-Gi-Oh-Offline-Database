@@ -31,6 +31,9 @@ DUEL_SPIRITS_DECKS_COVER_CARDS = {
         "no_weaklings": 85306040,
         "goblical_parade": 18590133,
     },
+    "honest": {
+        "truthfully_honest": 37742478,
+    },
     "kuriboh": {
         "kuriboh_and_friends": 40640057
     },

@@ -8,4 +8,5 @@ DUEL_SPIRITS = [
     ("goblin_elite_attack_force", "images/duelists/duel_spirits/goblin_elite_attack_force.webp", None),
     ("brron_mad_king_of_dark_world", "images/duelists/duel_spirits/brron_mad_king_of_dark_world.webp", None),
     ("chaos_sorcerer", "images/duelists/duel_spirits/chaos_sorcerer.webp", None),
+    ("honest", "images/duelists/duel_spirits/honest.webp", None),
 ]

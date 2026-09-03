@@ -89,6 +89,12 @@ DUEL_SPIRITS_DECKS_KEYS = {
             "pt": "Desfile Goblínico",
         },
     },
+    "honest": {
+        "truthfully_honest": {
+            "en": "Truthfully Honest",
+            "pt": "Verdadeiramente Honesto",
+        },
+    },
     "kuriboh": {
         "kuriboh_and_friends": {
             "en": "Kuriboh & Friends",
