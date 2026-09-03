@@ -56,7 +56,6 @@ DUELISTS_GX = [
     ("emotionless_mask", "images/duelists/duelist_placeholder.png", "gx"),
     ("the_supreme_king", "images/duelists/duelist_placeholder.png", "gx"),
     ("skull_bishop", "images/duelists/duelist_placeholder.png", "gx"),
-    ("chaos_sorcerer", "images/duelists/duelist_placeholder.png", "gx"),
     ("skilled_dark_magician", "images/duelists/duelist_placeholder.png", "gx"),
     ("scarr_scout_of_dark_world", "images/duelists/duelist_placeholder.png", "gx"),
     ("zure_knight_of_dark_world", "images/duelists/duelist_placeholder.png", "gx"),

@@ -5,6 +5,10 @@ DUEL_SPIRITS_DECKS_COVER_CARDS = {
         "sleepless_mind": 15800838,
         "see_my_dark_side": 44330098,
     },
+    "chaos_sorcerer": {
+        "a_tribute_too_far": "09596126",
+        "light_dark_chaos": 68450517,
+    },
     "dancing_fairy": {
         "dancing_duel": 90925163,
     },

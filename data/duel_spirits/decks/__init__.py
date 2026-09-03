@@ -1,4 +1,5 @@
 from data.duel_spirits.decks.brron_mad_king_of_dark_world import BRRON_MAD_KING_OF_DARK_WORLD_DECKS
+from data.duel_spirits.decks.chaos_sorcerer import CHAOS_SORCERER_DECKS
 from data.duel_spirits.decks.dancing_fairy import DANCING_FAIRY_DECK
 from data.duel_spirits.decks.dark_magician_girl import DARK_MAGICIAN_GIRL_DECKS
 from data.duel_spirits.decks.goblin_elite_attack_force import GOBLIN_ELITE_ATTACK_FORCE_DECKS
@@ -12,6 +13,7 @@ LIST_OF_DECKS_DUEL_SPIRITS = {
     "dancing_fairy": DANCING_FAIRY_DECK,
     "goblin_elite_attack_force": GOBLIN_ELITE_ATTACK_FORCE_DECKS,
     "brron_mad_king_of_dark_world": BRRON_MAD_KING_OF_DARK_WORLD_DECKS,
+    "chaos_sorcerer": CHAOS_SORCERER_DECKS,
 }
 
 __all__ = ["LIST_OF_DECKS_DUEL_SPIRITS"]

@@ -13,6 +13,16 @@ DUEL_SPIRITS_DECKS_KEYS = {
             "pt": "Veja Meu Lado Sombrio",
         },
     },
+    "chaos_sorcerer": {
+        "a_tribute_too_far": {
+            "en": "A Tribute Too Far",
+            "pt": "Um Tributo a Mais",
+        },
+        "light_dark_chaos": {
+            "en": "Light x Dark = Chaos",
+            "pt": "Luz x Escuridão = Caos",
+        },
+    },
     "dancing_fairy": {
         "dancing_duel": {
             "en": "Dancing Duel",

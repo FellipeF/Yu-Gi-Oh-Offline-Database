@@ -567,12 +567,13 @@ ui_text = {
         # ================================
         #  DUEL SPIRITS
         # ================================
-        "dark_magician_girl": "Dark Magician Girl",
+        "dark_magician_girl": "Pequena Maga Negra",
         "kuriboh": "Kuriboh",
-        "red_eyes_black_dragon": "Red-Eyes Black Dragon",
-        "dancing_fairy": "Dancing Fairy",
-        "goblin_elite_attack_force": "Goblin Elite Attack Force",
-        "brron_mad_king_of_dark_world": "Brron, Mad King of Dark World",
+        "red_eyes_black_dragon": "Dragão Negro de Olhos Vermelhos",
+        "dancing_fairy": "Fada Dançante",
+        "goblin_elite_attack_force": "Força de Ataque de Elite Goblin",
+        "brron_mad_king_of_dark_world": "Brron, Rei Insano do Mundo Negro",
+        "chaos_sorcerer": "Feiticeiro do Caos",
         # ================================
         #  DUELISTS - GX
         # ================================
@@ -623,7 +624,6 @@ ui_text = {
         "emotionless_mask": "Emotionless Mask",
         "the_supreme_king": "The Supreme King",
         "skull_bishop": "Skull Bishop",
-        "chaos_sorcerer": "Chaos Sorcerer",
         "skilled_dark_magician": "Skilled Dark Magician",
         "scarr_scout_of_dark_world": "Scarr, Scout of Dark World",
         "zure_knight_of_dark_world": "Zure, Knight of Dark World",
