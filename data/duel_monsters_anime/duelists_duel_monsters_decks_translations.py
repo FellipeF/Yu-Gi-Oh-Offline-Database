@@ -16,6 +16,34 @@ DUELISTS_DECKS_KEYS_DUEL_MONSTERS = {
             "en": "Dragon Buster",
             "pt": "Dragão Notável",
         },
+        "alister": {
+            "en": "Alister",
+            "pt": "Alister",
+        },
+        "this_is_my_revenge": {
+            "en": "This is My Revenge",
+            "pt": "Essa é a Minha Vingança",
+        },
+        "a_world_without_war": {
+            "en": "A World Without War...",
+            "pt": "Um Mundo Sem Guerra...",
+        },
+        "awaken_the_dark_soul": {
+            "en": "Awaken the Dark Soul",
+            "pt": "Desperta a Alma Sombria",
+        },
+        "a_tainted_worlds_judgment": {
+            "en": "A Tainted World's Judgment!",
+            "pt": "Julgamento de um Mundo Contaminado!",
+        },
+        "return_this_world_to_nothing": {
+            "en": "Return This World to Nothing",
+            "pt": "Retorne Este Mundo para o Nada",
+        },
+        "ill_live_on_for_your_sake": {
+            "en": "I'll Live On For Your Sake",
+            "pt": "Continuarei a Viver Pelo Seu Bem",
+        },
     },
     "arkana": {
         "sleight_of_hand": {
@@ -743,8 +771,8 @@ DUELISTS_DECKS_KEYS_DUEL_MONSTERS = {
             "en": "Red-Eyes Fusion",
             "pt": "Fusão de Olhos Vermelhos",
         },
-        "field_of_the_warriors": {
-            "en": "Field of the Warriors",
+        "fields_of_the_warriors": {
+            "en": "Fields of the Warriors",
             "pt": "Campos dos Guerreiros",
         },
         "dragon_of_luster": {
@@ -1074,6 +1102,42 @@ DUELISTS_DECKS_KEYS_DUEL_MONSTERS = {
         "climatic_daedalus": {
             "en": "Climatic Daedalus",
             "pt": "Daedalus Climático",
+        },
+        "mako": {
+            "en": "Mako",
+            "pt": "Mako",
+        },
+        "river_raft": {
+            "en": "River Raft",
+            "pt": "Balsa de Rio",
+        },
+        "river_boat": {
+            "en": "River Boat",
+            "pt": "Barco de Rio",
+        },
+        "deep_sea_fishing_vessel": {
+            "en": "Deep Sea Fishing Vessel",
+            "pt": "Embarcação de Pesca de Alto Mar",
+        },
+        "duelist_of_the_sea": {
+            "en": "Duelist of the Sea",
+            "pt": "Duelista do Mar",
+        },
+        "sea_stealth_attack": {
+            "en": "Sea Stealth Attack",
+            "pt": "Ataque Oculto do Mar",
+        },
+        "giant_whale_fortress": {
+            "en": "Giant Whale Fortress",
+            "pt": "Baleia Fortaleza Gigante",
+        },
+        "shadow_of_my_father": {
+            "en": "Shadow of my Father",
+            "pt": "Sombra do meu Pai",
+        },
+        "oceanic_guardians": {
+            "en": "Oceanic Guardians",
+            "pt": "Guardiões Oceânicos",
         },
     },
     "marik_ishtar": {
@@ -2236,6 +2300,30 @@ DUELISTS_DECKS_KEYS_DUEL_MONSTERS = {
             "en": "The Sage's Stone - The End",
             "pt": "Pedra da Magia - O Fim",
         },
+        "dance_of_fairies_and_magic": {
+            "en": "Dance of Fairies and Magic",
+            "pt": "Dança de Fadas e Magia",
+        },
+        "fairies_and_magical_craftswomen": {
+            "en": "Fairies and Magical Craftswomen",
+            "pt": "Fadas e Artesãs Mágicas",
+        },
+        "magical_craftsmanship": {
+            "en": "Magical Craftsmanship",
+            "pt": "Artesanato Mágico",
+        },
+        "witchcrafter_guild": {
+            "en": "Witchcrafter Guild",
+            "pt": "Guilda Fazticeira",
+        },
+        "a_day_in_the_magical_citadel": {
+            "en": "A Day in the Magical Citadel",
+            "pt": "Um Dia na Cidadela Mágica",
+        },
+        "up_for_the_fight": {
+            "en": "Up for the Fight!",
+            "pt": "Pronta para a Luta!",
+        },
     },
     "tristan_taylor": {
         "the_big_five": {
@@ -3091,6 +3179,26 @@ DUELISTS_DECKS_KEYS_DUEL_MONSTERS = {
         "world_of_memories_2": {
             "en": "World of Memories (2)",
             "pt": "Mundo de Memórias (2)",
+        },
+        "loyal_friends": {
+            "en": "Loyal Friends",
+            "pt": "Amigos Leais",
+        },
+        "friends_of_unity": {
+            "en": "Friends of Unity",
+            "pt": "Amigos Unidos",
+        },
+        "our_bright_future": {
+            "en": "Our Bright Future",
+            "pt": "Nosso Brilhante Futuro",
+        },
+        "fight_for_a_friend": {
+            "en": "Fight For A Friend",
+            "pt": "Luta Por Um Amigo",
+        },
+        "disciples_and_magician_girls": {
+            "en": "Disciples and Magician Girls",
+            "pt": "Discípulos e Pequenas Magas",
         },
     },
 }

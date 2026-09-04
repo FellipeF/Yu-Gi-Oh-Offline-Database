@@ -1596,7 +1596,7 @@ JOEY_DECKS = {
         ("Red-Eyes Spirit", 1),
         ("Return of the Red-Eyes", 1),
     ],
-    "field_of_the_warriors": [
+    "fields_of_the_warriors": [
         ("Axe Raider", 3),
         ("Cyber-Tech Alligator", 1),
         ("Red-Eyes Black Dragon", 1),

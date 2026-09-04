@@ -101,6 +101,12 @@ DUEL_SPIRITS_DECKS_KEYS = {
             "pt": "Kuriboh e Amigos",
         },
     },
+    "maiden_of_the_aqua": {
+        "deluge": {
+            "en": "Deluge",
+            "pt": "Dilúvio",
+        },
+    },
     "red_eyes_black_dragon": {
         "september_2004": {
             "en": "September 2004",

@@ -90,7 +90,6 @@ DUELISTS_GX = [
     ("rainbow_dragon", "images/duelists/duelist_placeholder.png", "gx"),
     ("elemental_hero_flame_wingman", "images/duelists/duelist_placeholder.png", "gx"),
     ("sky_scout", "images/duelists/duelist_placeholder.png", "gx"),
-    ("maiden_of_the_aqua", "images/duelists/duelist_placeholder.png", "gx"),
     ("exodia_the_forbidden_one", "images/duelists/duelist_placeholder.png", "gx"),
     ("kabukid", "images/duelists/duelist_placeholder.png", "gx"),
     ("franz", "images/duelists/duelist_placeholder.png", "gx"),

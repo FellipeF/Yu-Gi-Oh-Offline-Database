@@ -232,6 +232,7 @@ ui_text = {
         "brron_mad_king_of_dark_world": "Brron, Mad King of Dark World",
         "chaos_sorcerer": "Chaos Sorcerer",
         "honest": "Honest",
+        "maiden_of_the_aqua": "Maiden of the Aqua",
         # ================================
         #  DUELISTS - GX
         # ================================
@@ -323,7 +324,6 @@ ui_text = {
         "rainbow_dragon": "Rainbow Dragon",
         "elemental_hero_flame_wingman": "Elemental HERO Flame Wingman",
         "sky_scout": "Sky Scout",
-        "maiden_of_the_aqua": "Maiden of the Aqua",
         "exodia_the_forbidden_one": "Exodia the Forbidden One",
         "kabukid": "Kabukid",
         "franz": "Franz",
@@ -575,6 +575,7 @@ ui_text = {
         "brron_mad_king_of_dark_world": "Brron, Rei Insano do Mundo Negro",
         "chaos_sorcerer": "Feiticeiro do Caos",
         "honest": "Honesto",
+        "maiden_of_the_aqua": "Donzela da Água",
         # ================================
         #  DUELISTS - GX
         # ================================
@@ -666,7 +667,6 @@ ui_text = {
         "rainbow_dragon": "Rainbow Dragon",
         "elemental_hero_flame_wingman": "Elemental HERO Flame Wingman",
         "sky_scout": "Sky Scout",
-        "maiden_of_the_aqua": "Maiden of the Aqua",
         "exodia_the_forbidden_one": "Exodia the Forbidden One",
         "kabukid": "Kabukid",
         "franz": "Franz",

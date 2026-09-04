@@ -37,6 +37,9 @@ DUEL_SPIRITS_DECKS_COVER_CARDS = {
     "kuriboh": {
         "kuriboh_and_friends": 40640057
     },
+    "maiden_of_the_aqua": {
+        "deluge": 17214465,
+    },
     "red_eyes_black_dragon": {
         "september_2004": 74677422,
         "who_needs_effects": 11321183,

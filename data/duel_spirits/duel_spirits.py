@@ -9,4 +9,5 @@ DUEL_SPIRITS = [
     ("brron_mad_king_of_dark_world", "images/duelists/duel_spirits/brron_mad_king_of_dark_world.webp", None),
     ("chaos_sorcerer", "images/duelists/duel_spirits/chaos_sorcerer.webp", None),
     ("honest", "images/duelists/duel_spirits/honest.webp", None),
+    ("maiden_of_the_aqua", "images/duelists/duel_spirits/maiden_of_the_aqua.webp", None),
 ]
