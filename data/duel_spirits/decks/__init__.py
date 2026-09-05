@@ -7,6 +7,7 @@ from data.duel_spirits.decks.honest import HONEST_DECKS
 from data.duel_spirits.decks.kuriboh import KURIBOH_DECKS
 from data.duel_spirits.decks.maiden_of_the_aqua import MAIDEN_OF_THE_AQUA_DECK
 from data.duel_spirits.decks.red_eyes_black_dragon import RED_EYES_BLACK_DRAGON_DECKS
+from data.duel_spirits.decks.winged_kuriboh import WINGED_KURIBOH_DECKS
 
 LIST_OF_DECKS_DUEL_SPIRITS = {
     "dark_magician_girl": DARK_MAGICIAN_GIRL_DECKS,
@@ -18,6 +19,7 @@ LIST_OF_DECKS_DUEL_SPIRITS = {
     "chaos_sorcerer": CHAOS_SORCERER_DECKS,
     "honest": HONEST_DECKS,
     "maiden_of_the_aqua": MAIDEN_OF_THE_AQUA_DECK,
+    "winged_kuriboh": WINGED_KURIBOH_DECKS,
 }
 
 __all__ = ["LIST_OF_DECKS_DUEL_SPIRITS"]

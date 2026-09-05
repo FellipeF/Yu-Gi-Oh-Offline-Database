@@ -10,4 +10,5 @@ DUEL_SPIRITS = [
     ("chaos_sorcerer", "images/duelists/duel_spirits/chaos_sorcerer.webp", None),
     ("honest", "images/duelists/duel_spirits/honest.webp", None),
     ("maiden_of_the_aqua", "images/duelists/duel_spirits/maiden_of_the_aqua.webp", None),
+    ("winged_kuriboh", "images/duelists/duel_spirits/winged_kuriboh.webp", None),
 ]

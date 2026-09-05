@@ -121,4 +121,18 @@ DUEL_SPIRITS_DECKS_KEYS = {
             "pt": "Chama Negra",
         },
     },
+    "winged_kuriboh": {
+        "war_bred_people": {
+            "en": "War-bred People",
+            "pt": "Povo criado para a Guerra"
+        },
+        "hello_hero": {
+            "en": "Hello, Hero!",
+            "pt": "Olá, Herói!"
+        },
+        "kuriboh_growth": {
+            "en": "Kuriboh Growth",
+            "pt": "Crescimento Kuriboh"
+        },
+    },
 }

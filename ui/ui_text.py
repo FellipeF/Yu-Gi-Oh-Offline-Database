@@ -233,6 +233,7 @@ ui_text = {
         "chaos_sorcerer": "Chaos Sorcerer",
         "honest": "Honest",
         "maiden_of_the_aqua": "Maiden of the Aqua",
+        "winged_kuriboh": "Winged Kuriboh",
         # ================================
         #  DUELISTS - GX
         # ================================
@@ -307,8 +308,6 @@ ui_text = {
         "belowski": "Belowski",
         "reginald_van_howel": "Reginald Van Howel",
         "missy": "Missy",
-        "winged_kuriboh": "Winged Kuriboh",
-        "des_koala": "Des Koala",
         "ojama_trio": "Ojama Trio",
         "neo_spacians": "Neo-Spacians",
         "neo_spacian_air_hummingbird": "Neo-Spacian Air Hummingbird",
@@ -318,7 +317,6 @@ ui_text = {
         "the_winged_dragon_of_ra": "The Winged Dragon of Ra",
         "destiny_hero_plasma": "Destiny HERO - Plasma",
         "elemental_hero_neos": "Elemental HERO Neos",
-        "crystal_beasts": "Crystal Beasts",
         "crystal_beast_sapphire_pegasus": "Crystal Beast Sapphire Pegasus",
         "jerry_beans_man": "Jerry Beans Man",
         "rainbow_dragon": "Rainbow Dragon",
@@ -576,6 +574,7 @@ ui_text = {
         "chaos_sorcerer": "Feiticeiro do Caos",
         "honest": "Honesto",
         "maiden_of_the_aqua": "Donzela da Água",
+        "winged_kuriboh": "Kuriboh Alado",
         # ================================
         #  DUELISTS - GX
         # ================================
@@ -650,8 +649,6 @@ ui_text = {
         "belowski": "Belowski",
         "reginald_van_howel": "Reginald Van Howel",
         "missy": "Missy",
-        "winged_kuriboh": "Winged Kuriboh",
-        "des_koala": "Des Koala",
         "ojama_trio": "Ojama Trio",
         "neo_spacians": "Neo-Spacians",
         "neo_spacian_air_hummingbird": "Neo-Spacian Air Hummingbird",
@@ -661,7 +658,6 @@ ui_text = {
         "the_winged_dragon_of_ra": "The Winged Dragon of Ra",
         "destiny_hero_plasma": "Destiny HERO - Plasma",
         "elemental_hero_neos": "Elemental HERO Neos",
-        "crystal_beasts": "Crystal Beasts",
         "crystal_beast_sapphire_pegasus": "Crystal Beast Sapphire Pegasus",
         "jerry_beans_man": "Jerry Beans Man",
         "rainbow_dragon": "Rainbow Dragon",
