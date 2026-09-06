@@ -171,6 +171,32 @@ DUELISTS_DECKS_KEYS_GX = {
             "pt": "Surra do Destino",
         },
     },
+    "beauregard": {
+        "duel_giants": {
+            "en": "Duel Giants",
+            "pt": "Gigantes de Duelo",
+        },
+        "ante_cards": {
+            "en": "Ante Cards",
+            "pt": "Cartas Ante",
+        },
+        "first_year": {
+            "en": "1st Year",
+            "pt": "1º Ano",
+        },
+        "rampaging_giant": {
+            "en": "Rampaging Giant",
+            "pt": "Gigante em Fúria",
+        },
+        "big_impact": {
+            "en": "Big Impact",
+            "pt": "Grande Impacto",
+        },
+        "birth_of_the_dark_ruler": {
+            "en": "Birth of the Dark Ruler",
+            "pt": "Nascimento do Governante Sombrio",
+        },
+    },
     "jasmine": {
         "female_warrior": {
             "en": "Female Warrior",

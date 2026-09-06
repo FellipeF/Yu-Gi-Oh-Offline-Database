@@ -14,6 +14,7 @@ DUELISTS_GX = [
     ("taiyou_torimaki", "images/duelists/gx/taiyou_torimaki.webp", "gx"),
     ("kagemaru", "images/duelists/gx/kagemaru.webp", "gx"),
     ("tyranno_hassleberry", "images/duelists/gx/tyranno_hassleberry.webp", "gx"),
+    ("beauregard", "images/duelists/gx/beauregard.webp", "gx"),
     # =========================
     # TODO: Below
     # =========================
@@ -69,7 +70,6 @@ DUELISTS_GX = [
     ("raizou_mototani", "images/duelists/duelist_placeholder.png", "gx"),
     ("harrington_rosewood", "images/duelists/duelist_placeholder.png", "gx"),
     ("brier", "images/duelists/duelist_placeholder.png", "gx"),
-    ("beauregard", "images/duelists/duelist_placeholder.png", "gx"),
     ("dimitri", "images/duelists/duelist_placeholder.png", "gx"),
     ("ishiki_erishi", "images/duelists/duelist_placeholder.png", "gx"),
     ("belowski", "images/duelists/duelist_placeholder.png", "gx"),

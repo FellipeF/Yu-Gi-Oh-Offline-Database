@@ -4,6 +4,14 @@ GX_DECK_COVER_CARDS = {
         "toon_square": 47453433,
         "fading_power": 16435215,
     },
+    "beauregard": {
+        "duel_giants": 73698349,
+        "ante_cards": 39711336,
+        "first_year": 12057781,
+        "rampaging_giant": 17192817,
+        "big_impact": 82828051,
+        "birth_of_the_dark_ruler": 41925941,
+    },
     "jasmine": {
         "female_warrior": 64751286,
         "cause_theyre_cool": 15150365,
